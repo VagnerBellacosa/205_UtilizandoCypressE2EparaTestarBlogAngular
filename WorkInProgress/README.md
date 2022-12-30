@@ -36,7 +36,16 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Parte 1](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/4022d71c-b706-4414-a171-49ee87184452)[Parte 2](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/688bf164-9e58-42e0-9b91-0d94735fad54)[Parte 3](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/42870163-8319-4725-8d67-6c9434a9e56d)[Parte 4](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/746573e9-5261-4cd3-8be0-e183ace68ba1)[Parte 5](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/4f8c6fea-70a3-46a6-b6c8-3d5005ccf988)[Parte 6](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/1eaf28e9-7bbf-4031-8646-e0880645e793)[Parte 7](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/184b926d-b59f-4370-8f82-c9f4cba62a34)[Parte 8](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/7105e629-5df1-4d42-a71f-0af4ba9d388b)[Parte 9](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/e309c1dc-609f-49c2-8850-4190fd6309fd)[Parte 10](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/fbb5bbab-80a2-4acb-a2ba-9afb0494f534)
+- [Parte 1](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/4022d71c-b706-4414-a171-49ee87184452)
+- [Parte 2](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/688bf164-9e58-42e0-9b91-0d94735fad54)
+- [Parte 3](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/42870163-8319-4725-8d67-6c9434a9e56d)
+- [Parte 4](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/746573e9-5261-4cd3-8be0-e183ace68ba1)
+- [Parte 5](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/4f8c6fea-70a3-46a6-b6c8-3d5005ccf988)
+- [Parte 6](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/1eaf28e9-7bbf-4031-8646-e0880645e793)
+- [Parte 7](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/184b926d-b59f-4370-8f82-c9f4cba62a34)
+- [Parte 8](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/7105e629-5df1-4d42-a71f-0af4ba9d388b)
+- [Parte 9](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/e309c1dc-609f-49c2-8850-4190fd6309fd)
+- [Parte 10](https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/fbb5bbab-80a2-4acb-a2ba-9afb0494f534)
 
 
 
